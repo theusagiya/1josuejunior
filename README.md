@@ -1,4 +1,4 @@
-### Olá, tudo bem? Eu sou o Josué Júnior 👋😄
+## Olá, tudo bem? Eu sou o Josué Júnior 👋😄
 
 - 🔭 Hoje trabalho com Química Industrial
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá
@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/1josuejunior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1josuejunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1josuejunior&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=1josuejunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1josuejunior&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
