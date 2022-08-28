@@ -1,7 +1,5 @@
 ### Olá, tudo bem? Eu sou o Josué Júnior 👋😄
 
-Here are some ideas to get you started:
-
 - 🔭 Hoje trabalho com Química Industrial
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá
 - 💬 Contate-me no e-mail: josue.severiino@gmail.com
